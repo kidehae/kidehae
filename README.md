@@ -77,42 +77,12 @@ const meaza = {
   
 </div>
 
----
 
-## 📊 GitHub Analytics
 
-<div align="center">
 
-<!-- GitHub Stats Cards -->
-<a href="https://github.com/kidehae">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kidehae&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=30,0d1117,161b22&title_color=58a6ff&icon_color=58a6ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidehae&layout=compact&theme=radical&hide_border=true&bg_color=30,161b22,0d1117&title_color=58a6ff&text_color=8b949e" />
-</a>
 
-<!-- GitHub Streak -->
-<a href="https://github.com/kidehae">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kidehae&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</a>
 
-</div>
 
----
-
-## 🎨 Featured Projects
-
-<div align="center">
-
-<!-- Project Cards -->
-<a href="https://github.com/kidehae/YRPS-DEPLOYMENT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kidehae&repo=your-project-1&theme=radical&bg_color=0d1117&title_color=58a6ff" />
-</a>
-<a href="https://github.com/kidehae/EVANGADI_FORUM_DEPLOYMENT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kidehae&repo=your-project-2&theme=radical&bg_color=0d1117&title_color=58a6ff" />
-</a>
-
-</div>
-
----
 
 ## 📈 Development Activity
 
@@ -223,10 +193,10 @@ DevOps & Tools    🟪 15%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn"/>
 
 <p>
-  <i>✨ Code with passion, deploy with confidence, impact with purpose!</i>
+  <i> Code with passion, deploy with confidence, impact with purpose!</i>
 </p>
 
-![GitHub Snake](https://raw.githubusercontent.com/kidehae/kidehae/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
